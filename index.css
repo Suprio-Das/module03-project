@@ -91,3 +91,14 @@ img{
     border: 2px solid black;
     text-align: center;
 }
+.copyrights{
+
+    background-color: black;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
