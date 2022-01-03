@@ -1,0 +1,48 @@
+.header{
+
+    color: orange;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
+.mainheader{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.subheader{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: -1px;
+}
+.blog{
+
+    background-color: orange;
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.blogheader{
+
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -1px;
+}
+.blogcontents{
+
+    color: blue;
+    font-family: arial;
+    text-align: justify;
+    margin-bottom: -1px
+}
+.blogintro{
+
+    color: red;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
